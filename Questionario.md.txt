@@ -2,3 +2,5 @@
 
 2- o que é commit?
 
+3- o que é um repositório?
+
