@@ -7,3 +7,6 @@
 4- o que é merge?
 
 5- o que é pull?
+
+6- o que é push?
+
